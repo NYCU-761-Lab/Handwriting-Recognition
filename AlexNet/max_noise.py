@@ -139,9 +139,9 @@ testloader = torch.utils.data.DataLoader(
 # 定義損失函數 loss function 和優化方式(採用 SGD)
 net = AlexNet().to(device)
 """*"""
-# detect turn on
 a = torch.load('./max_noise_params.pth')
 net.load_state_dict(torch.load('./max_noise_params.pth'))
+# detect turn on
 """*"""
 criterion = nn.CrossEntropyLoss()  # 交叉熵損失函數，通常用於多分類問題上
 optimizer = optim.SGD(net.parameters(), lr=LR, momentum=0.9)
