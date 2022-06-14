@@ -64,11 +64,11 @@ pip3 install torch torchvision torchaudio
 
 ## Experiment Result
 * AlexNet + max pooling has the best performance overall
-  <img width="557" alt="image" src="https://user-images.githubusercontent.com/73454628/173620281-8b3d73a3-f0e5-4b40-879d-762e0e5d16ea.png">
+<img width="557" alt="image" src="https://user-images.githubusercontent.com/73454628/173620281-8b3d73a3-f0e5-4b40-879d-762e0e5d16ea.png">
 * AlexNet structure is less affected by the Gaussian noise
-  <img width="546" alt="image" src="https://user-images.githubusercontent.com/73454628/173620359-b22b5e59-22d7-4cc4-8bf1-0ce435cf62b8.png">
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/73454628/173620359-b22b5e59-22d7-4cc4-8bf1-0ce435cf62b8.png">
 * Special 3
-  <img width="266" alt="image" src="https://user-images.githubusercontent.com/73454628/173620497-48317b0b-5a10-4764-b1f9-1395c98959c5.png">
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/73454628/173620497-48317b0b-5a10-4764-b1f9-1395c98959c5.png">
 
 ## Contribution of each member
 席秉萱 - 50%
