@@ -3,7 +3,10 @@
 ## Overview
 These are the codes for 2 experiments.
 
-We have the same 3 network structures for each experiment, namely fully connected neural network(fc), AlexNet with max pooling, and AlexNet with average pooling.
+We have the same 3 network structures for each experiment, namely 
+1. fully connected neural network(fc)
+2. AlexNet with max pooling 
+3. and AlexNet with average pooling
 
 1st experiment:
 * Train the 3 network structures with normal MNIST train dataset.
