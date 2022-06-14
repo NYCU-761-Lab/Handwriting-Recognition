@@ -58,7 +58,7 @@ pip3 install torch torchvision torchaudio
 * please turn off the train() function right below main
 * run python3 XXX.py in your command line
 
-* Hyperparameters have been already set up in the code.
+*Hyperparameters have been already set up in the code.
 
 > Kindly note 
 > 1. The .pth files in the repository are the experiment record data. If you want to train your own models, we suggesst you to load to the new .pth file in order the retain the original one.
