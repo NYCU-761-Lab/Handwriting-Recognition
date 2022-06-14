@@ -78,9 +78,16 @@ pip3 install torch torchvision torchaudio
 席秉萱 - 50%
 1. fully connected neural network implementation
 2. 22-page presentation ppt
-3. Record 15 mins viedo presentation 
+3. Record 15 mins presentation viedo
 
 陳姵帆 - 50%
 1. AlexNet implementation
 2. 2-page written report
 3. github repository set up
+
+## Appendix
+1. report_paper.pdf
+2. 15 min presentation video link: https://www.youtube.com/watch?v=Bn6DcvN8r4s&ab_channel=cookieping
+3. Presentation ppt link: https://docs.google.com/presentation/d/1C30jXnRb1bQDgmM6UbpGIP2M7x0YbmB6j15mUKw9lx8/edit?usp=sharing
+
+
